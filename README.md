@@ -1,0 +1,2 @@
+# MyRemote_GitHub
+这是我的第一i个远程git仓库，里面有sfhaitao相关的postgre数据库和MySQL数据库表格的ETL和tableau展示等等信息。
